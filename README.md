@@ -68,7 +68,7 @@ Tableau-Sales-Performance-Dashboard/
 │
 ├── README.md
 ├── Sales_Dashboard.twbx
-├── Dataset.csv
+├── Dataset.xlxs
 └── Dashboard_Screenshot.png
 ```
 
