@@ -4,6 +4,14 @@ An interactive **Business Intelligence (BI) dashboard** built using **Tableau** 
 
 ---
 
+## 🌐 Live Interactive Dashboard
+
+👉 **Explore the dashboard here:**  
+**https://public.tableau.com/app/profile/ayush.rajput5920/viz/FinalTableauFile_17853409371020/Dashboard1?publish=yes**
+
+> Click the link above to interact with filters, charts, maps, and visualizations in real time.
+
+
 ## 📌 Project Overview
 
 This dashboard provides a comprehensive view of sales performance through interactive visualizations and KPI reporting. It helps identify business trends, high-performing regions, profitable product categories, and customer purchasing patterns.
