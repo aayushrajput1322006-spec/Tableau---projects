@@ -121,7 +121,7 @@ This dashboard enables businesses to:
 
 **Ayush Rajput**
 
-- GitHub: https://github.com/aayushrajput1322006-spec
+- GitHub: https://github.com/ayushrajput-data
 - LinkedIn: *(http://www.linkedin.com/in/ayushrajput1322006)*
 
 ---
